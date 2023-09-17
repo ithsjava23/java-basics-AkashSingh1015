@@ -121,6 +121,7 @@ private static void exitWithLowerCaseE() {
         }
         }
 
+
     }
 
     }private static void skrivUtSorteradePriser(int[] priser) {
