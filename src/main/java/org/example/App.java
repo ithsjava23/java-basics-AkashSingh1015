@@ -31,7 +31,6 @@ public class App {
                 e. Avsluta
                 """;
 
-
             System.out.print(menu);
             menu = scanner.nextLine();
 
